@@ -1,7 +1,7 @@
 SCReleaseNotes
 ==============
 
-Retrieve app release notes from either iTunes, or from a localization file. Optional support to only display the release notes once per version. iOS 5 and above supported.
+Retrieve app release notes from either iTunes, or from a localization file. Optional support to only display the release notes once per app version. iOS 5 and above supported.
 
 ## Example Usage
 
